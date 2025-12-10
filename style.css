@@ -237,9 +237,58 @@ align-items: center;
     align-items: center;
     justify-content: center;
 }
+.box-img:hover{
+    
+}
 .txt-tours{
     display: flex;
     align-items: center;
     justify-content: center;
 
 }
+.section-4{
+    width: 1320px;
+    height: 300px;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.caixa-1{
+    width: 300px;
+    height: 370px;
+    border: 1px solid gray;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 20px;
+}
+.titulo-3{
+    font-size: 12px;
+   margin-right: 60px;
+}
+.tt-destaque{
+    font-size: 15px;
+    font-weight: 500;
+    justify-content: center;
+}
+.rdp-cx{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+.notas{
+    font-size: 12px;
+}
+hr{
+ width: 280px;
+}
+.conteiner{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: center;
+    gap: 15px;
+}
+
